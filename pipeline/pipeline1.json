@@ -16,7 +16,7 @@
 				"userProperties": [],
 				"typeProperties": {
 					"packageLocation": {
-						"packagePath": "\\\\storagejing1.file.core.windows.net\\undefined",
+						"packagePath": "\\\\storagejing1.file.core.windows.net\\test1",
 						"type": "File",
 						"typeProperties": {
 							"accessCredential": {
